@@ -1,2 +1,2 @@
-# Demo_Projects
-Demo_Projects using new technologies
+# Example Projects
+Example Projects using different frameworks and concepts
